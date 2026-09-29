@@ -1,0 +1,45 @@
+# Build artifacts
+build/
+dist/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE - NetBeans
+nbproject/private/
+*.nbattrs
+.nbattrs
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Compiled output
+*.o
+*.so
+*.dylib
+
+# Logs
+*.log
+*.swp
+*.swo
+*~
+
+# Temporary files
+.temp/
+tmp/
+*.tmp
